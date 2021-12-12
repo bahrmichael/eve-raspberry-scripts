@@ -1,0 +1,10 @@
+{
+  "name": "raspberry-scripts",
+  "version": "1.0.0",
+  "scripts": {
+    "p": "npx ts-node -T ./pull-markets.ts"
+  },
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
